@@ -1,68 +1,62 @@
 # 🌍 GeoGenius
 
-GeoGenius is a Java-based geography quiz game developed using **Java Swing**. Players answer geography questions across multiple difficulty levels while racing against the clock. The game features a graphical user interface, sound effects, lives, and a high-score system to create an engaging learning experience.
+An interactive **Java Swing** geography quiz game that challenges players with questions from around the world. GeoGenius features multiple difficulty levels, randomized questions, sound effects, a lives system, and persistent high-score tracking to create an engaging learning experience.
+
+---
+
+## 📖 Overview
+
+GeoGenius was developed as a Java desktop application to demonstrate object-oriented programming principles while providing an enjoyable educational game. The project combines a graphical user interface with file handling, timers, and multimedia to create a complete desktop application.
+
+---
 
 ## ✨ Features
 
-- 🎮 Interactive Java Swing GUI
-- 🌎 Three difficulty levels:
-  - Easy
-  - Medium
-  - Hard
-- 🔀 Randomized questions for every game
+- 🌎 Three difficulty levels (Easy, Medium, Hard)
+- 🔀 Randomized questions each game
 - ❤️ Lives system
-- ⏱️ Countdown timer for each question
-- 🏆 High-score tracking
+- ⏱️ Countdown timer
+- 🏆 Persistent high-score tracking
 - 🔊 Background music and sound effects
-- 📚 Question bank loaded from external text files
+- 📚 External question banks for easy customization
+- 🖥️ User-friendly Java Swing interface
 
-## 🛠️ Technologies Used
+---
+
+## 🛠️ Technologies
 
 - Java
 - Java Swing
 - Object-Oriented Programming (OOP)
-- File Handling
-- Collections (ArrayList)
+- File I/O
+- Java Collections (`ArrayList`)
 - Event-Driven Programming
 
-## 📁 Project Structure
+---
 
-```
-geographicGame/
-│
-├── src/
-│   └── geographicGame/
-│       ├── GameManagerGUI.java
-│       ├── Question.java
-│       ├── QuestionBank.java
-│       ├── background.wav
-│       ├── correct.wav
-│       └── incorrect.wav
-│
-├── easy_questions.txt
-├── medium_questions.txt
-├── hard_questions.txt
-├── highscore.txt
-├── .project
-├── .classpath
-└── README.md
-```
+## 🚀 Getting Started
 
-## 🚀 How to Run
+### Prerequisites
 
-1. Clone the repository.
+- Java JDK 8 or later
+- Eclipse IDE (recommended)
+
+### Installation
+
+1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GeoGenius.git
+git clone https://github.com/aryalankit121/GeoGenius.git
 ```
 
-2. Open the project in Eclipse (or any Java IDE).
+2. Open the project in Eclipse.
 
-3. Ensure the question files are located in the project root:
-   - `easy_questions.txt`
-   - `medium_questions.txt`
-   - `hard_questions.txt`
-   - `highscore.txt`
+3. Make sure these files remain in the project root:
+
+- easy_questions.txt
+- medium_questions.txt
+- hard_questions.txt
+- highscore.txt
 
 4. Run:
 
@@ -70,55 +64,73 @@ git clone https://github.com/YOUR_USERNAME/GeoGenius.git
 GameManagerGUI.java
 ```
 
-## 🎯 Gameplay
+---
 
-- Choose a difficulty level.
-- Answer geography questions before the timer expires.
-- Earn points for correct answers.
-- Avoid losing all your lives.
-- Try to beat your previous high score!
+## 🎮 Gameplay
+
+1. Select a difficulty level.
+2. Answer geography questions before the timer expires.
+3. Earn points for correct answers.
+4. Avoid losing all your lives.
+5. Beat your previous high score.
+
+---
+
+## 📁 Project Structure
+
+```
+GeoGenius/
+│
+├── src/
+│   └── geographicGame/
+│       ├── GameManagerGUI.java
+│       ├── Question.java
+│       └── QuestionBank.java
+│
+├── easy_questions.txt
+├── medium_questions.txt
+├── hard_questions.txt
+├── highscore.txt
+└── README.md
+```
+
+---
 
 ## 📸 Screenshots
 
-You can add screenshots of the game here.
-
-Example:
-
-```
-screenshots/
-├── menu.png
-├── gameplay.png
-├── correct-answer.png
-├── game-over.png
-```
-
-Then display them like this:
-
-```markdown
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+*(Add screenshot here)*
 
 ### Gameplay
 
-![Gameplay](screenshots/gameplay.png)
-```
+*(Add screenshot here)*
 
-## 📈 Future Improvements
+### Game Over
 
-- Online leaderboard
-- Additional question categories
-- User profiles
-- Multiplayer mode
-- Animated transitions
-- Improved UI theme
+*(Add screenshot here)*
+
+---
+
+## 💡 Future Improvements
+
+- 🌐 Online leaderboard
+- 👤 Player profiles
+- 🌍 Additional question categories
+- 🎨 Improved UI design
+- 🎮 Multiplayer mode
+
+---
 
 ## 👨‍💻 Author
 
 **Ankit Aryal**
 
-Computer Science Student
-
-University of Central Missouri
+Computer Science Student  
+Catawba College
 
 GitHub: https://github.com/aryalankit121
+
+---
+
+⭐ If you enjoyed this project, feel free to star the repository!
