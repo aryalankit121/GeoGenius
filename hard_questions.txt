@@ -1,0 +1,25 @@
+Which desert is the largest in the world?|A) Sahara  B) Gobi  C) Antarctic Desert|C|The Antarctic Desert is the largest in the world, covering about 5.5 million square miles.
+What is the deepest point in the ocean?|A) Mariana Trench  B) Puerto Rico Trench  C) Java Trench|A|The Mariana Trench is the deepest part of the world's oceans, reaching depths over 36,000 feet.
+Which African lake is the second largest by volume in the world?|A) Lake Tanganyika  B) Lake Victoria  C) Lake Malawi|A|Lake Tanganyika is the second-largest freshwater lake by volume and the second-deepest in the world.
+Which country has the highest number of active volcanoes?|A) Indonesia  B) Japan  C) Philippines|A|Indonesia has the most active volcanoes due to its location on the Pacific Ring of Fire.
+Which capital city is the highest above sea level?|A) La Paz  B) Quito  C) Kathmandu|A|La Paz, Bolivia, is the highest capital city in the world, at over 3,650 meters (11,975 ft) above sea level.
+What is the capital of Bhutan?|A) Thimphu  B) Paro  C) Kathmandu|A|Thimphu is the capital and largest city of Bhutan.
+Which island country is closest to the South Pole?|A) New Zealand  B) Madagascar  C) Argentina|A|New Zealand is the island country closest to the South Pole, though Argentina is geographically nearer.
+Which country has the highest average elevation?|A) Nepal  B) Bhutan  C) China|B|Bhutan has the highest average elevation of any country, with much of the nation above 3,000 meters.
+Which river flows north instead of south?|A) Amazon River  B) Nile River  C) Yangtze River|B|The Nile River famously flows northward from central Africa to the Mediterranean Sea.
+Which country owns Easter Island?|A) Chile  B) Peru  C) Brazil|A|Easter Island is a territory of Chile, located in the southeastern Pacific Ocean.
+Which mountain is the second tallest in the world?|A) Mount Everest  B) K2  C) Kangchenjunga|B|K2 is the second-highest mountain in the world after Mount Everest.
+Which country has the coldest average temperature year-round?|A) Russia  B) Canada  C) Antarctica|C|Antarctica has the coldest year-round temperatures of any continent.
+Which continent has the fewest people?|A) South America  B) Antarctica  C) Australia|B|Antarctica has no permanent residents and the fewest people overall.
+Which ocean has the most trenches?|A) Atlantic  B) Pacific  C) Indian|B|The Pacific Ocean contains the majority of the world's deep ocean trenches.
+Which is the world's highest navigable lake?|A) Lake Baikal  B) Lake Titicaca  C) Lake Victoria|B|Lake Titicaca is the highest navigable lake in the world, located on the border of Bolivia and Peru.
+Which U.S. state has the longest coastline?|A) California  B) Florida  C) Alaska|C|Alaska has the longest coastline of any U.S. state.
+Which mountain range separates Europe and Asia?|A) Alps  B) Himalayas  C) Ural Mountains|C|The Ural Mountains form a natural boundary between Europe and Asia.
+Which country is the world's largest coffee producer?|A) Colombia  B) Vietnam  C) Brazil|C|Brazil is the largest producer of coffee globally.
+Which European country is famous for its fjords?|A) Sweden  B) Norway  C) Finland|B|Norway is renowned for its stunning fjords.
+What is the largest desert in Asia?|A) Gobi Desert  B) Thar Desert  C) Arabian Desert|A|The Gobi Desert is the largest desert in Asia, covering parts of China and Mongolia.
+What is the capital of Kenya?|A) Nairobi  B) Mombasa  C) Kampala|A|Nairobi is the capital and largest city of Kenya.
+Which African country has the largest population?|A) Nigeria  B) Egypt  C) South Africa|A|Nigeria has the largest population of any African country.
+Which river forms part of the border between the U.S. and Mexico?|A) Colorado River  B) Rio Grande  C) Mississippi River|B|The Rio Grande forms a large part of the border between the United States and Mexico.
+Which is the largest freshwater lake in the world by surface area?|A) Lake Superior  B) Lake Victoria  C) Lake Baikal|A|Lake Superior, located in North America, is the largest freshwater lake by surface area.
+Which island nation is located southeast of India?|A) Maldives  B) Sri Lanka  C) Madagascar|B|Sri Lanka is an island country located southeast of India.

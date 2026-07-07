@@ -1,0 +1,40 @@
+What is the capital of France?|A) Berlin  B) Madrid  C) Paris|C|Paris is the capital and most populous city of France, known for its art, fashion, and culture.
+Which is the largest ocean on Earth?|A) Atlantic  B) Indian  C) Pacific|C|The Pacific Ocean is the largest and deepest ocean, covering more than 30% of the Earth's surface.
+What is the capital of Japan?|A) Tokyo  B) Seoul  C) Beijing|A|Tokyo, a bustling metropolis, is the political and economic center of Japan.
+Which country is the Great Wall of China located in?|A) Japan  B) China  C) India|B|The Great Wall is a historic fortification located in northern China.
+Which is the longest river in the world?|A) Nile  B) Amazon  C) Mississippi|A|The Nile River, flowing through northeastern Africa, is considered the world's longest river.
+What is the capital of the United States?|A) New York  B) Washington, D.C.  C) Los Angeles|B|Washington, D.C. is the capital city and the political heart of the United States.
+Which continent is the Sahara Desert located on?|A) Asia  B) Africa  C) Australia|B|The Sahara is the largest hot desert, stretching across North Africa.
+Which country is famous for its pyramids?|A) Greece  B) Egypt  C) Mexico|B|Egypt is known for its ancient pyramids, especially the Pyramids of Giza.
+Which continent is Australia located on?|A) Asia  B) Europe  C) Australia|C|Australia is both a country and a continent located in the Southern Hemisphere.
+What is the capital of the United Kingdom?|A) Dublin  B) London  C) Edinburgh|B|London is the capital of the UK and a global city known for its history and landmarks.
+What is the smallest country in the world?|A) Monaco  B) Vatican City  C) Luxembourg|B|Vatican City is an independent city-state and the smallest country by both area and population.
+Which mountain is the tallest in the world?|A) K2  B) Everest  C) Kilimanjaro|B|Mount Everest, located in the Himalayas, is the highest peak on Earth.
+Which country is known as the "Land of the Rising Sun"?|A) China  B) Japan  C) South Korea|B|Japan is often called the "Land of the Rising Sun" due to its location east of the Asian continent.
+Which U.S. state is famous for the Grand Canyon?|A) California  B) Arizona  C) Nevada|B|Arizona is home to the Grand Canyon, a massive natural wonder carved by the Colorado River.
+Which body of water separates Africa and Europe?|A) Mediterranean Sea  B) Black Sea  C) Red Sea|A|The Mediterranean Sea lies between Southern Europe and Northern Africa.
+Which is the largest continent?|A) Europe  B) Asia  C) Africa|B|Asia is the largest continent, both in area and population.
+What is the capital of Canada?|A) Toronto  B) Ottawa  C) Vancouver|B|Ottawa is Canada's capital, located in the province of Ontario.
+Which country has the most islands?|A) Indonesia  B) Philippines  C) Sweden|C|Sweden has the most islands, with over 260,000, though most are uninhabited.
+Which sea is the saltiest in the world?|A) Red Sea  B) Dead Sea  C) Arabian Sea|B|The Dead Sea is the saltiest body of water on Earth and lies between Jordan and Israel.
+Which country does Mount Fuji belong to?|A) Japan  B) South Korea  C) China|A|Mount Fuji is a sacred and iconic volcano located on Honshu Island in Japan.
+What is the capital of Italy?|A) Milan  B) Rome  C) Venice|B|Rome, with its rich history and ancient ruins, is the capital of Italy.
+What is the longest river in the United States?|A) Missouri River  B) Mississippi River  C) Colorado River|A|The Missouri River is the longest river in the U.S., flowing over 2,300 miles.
+Which continent has the most countries?|A) Africa  B) Asia  C) Europe|A|Africa has the most countries of any continent, with a total of 54 recognized sovereign nations.
+What is the capital of Germany?|A) Berlin  B) Munich  C) Frankfurt|A|Berlin is Germany’s capital and cultural center, known for its history and architecture.
+Which U.S. state is the largest by area?|A) Texas  B) California  C) Alaska|C|Alaska is the largest U.S. state by area, covering more than 663,000 square miles.
+Which country is famous for its tulips and windmills?|A) Belgium  B) Netherlands  C) Denmark|B|The Netherlands is known for its iconic tulip fields and traditional windmills.
+Which country shares the longest land border with the USA?|A) Canada  B) Mexico  C) Russia|A|Canada shares the longest international land border with the United States.
+What is the capital of Russia?|A) Saint Petersburg  B) Moscow  C) Kyiv|B|Moscow, a major cultural and political hub, is the capital of Russia.
+Which ocean is between the USA and the UK?|A) Indian Ocean  B) Atlantic Ocean  C) Pacific Ocean|B|The Atlantic Ocean lies between the eastern U.S. and western Europe.
+What is the capital of Australia?|A) Sydney  B) Melbourne  C) Canberra|C|Canberra is the capital of Australia, chosen as a compromise between Sydney and Melbourne.
+Which country is famous for the Eiffel Tower?|A) Italy  B) France  C) Spain|B|The Eiffel Tower, located in Paris, is one of the most iconic landmarks in France.
+Which ocean is the smallest?|A) Arctic  B) Indian  C) Atlantic|A|The Arctic Ocean is the smallest and shallowest of the world's five major oceans.
+Which country is shaped like a boot?|A) France  B) Italy  C) Greece|B|Italy is famously shaped like a boot and is located in southern Europe.
+What is the capital city of Spain?|A) Madrid  B) Barcelona  C) Seville|A|Madrid is the capital and largest city of Spain.
+Which planet is known as the Red Planet?|A) Mars  B) Venus  C) Jupiter|A|Mars is often called the Red Planet because of its reddish appearance.
+What is the name of the imaginary line dividing the Earth into Northern and Southern Hemispheres?|A) Equator  B) Prime Meridian  C) Tropic of Cancer|A|The Equator divides the Earth into Northern and Southern Hemispheres.
+Which U.S. city is known as the "Big Apple"?|A) Los Angeles  B) Chicago  C) New York City|C|New York City is commonly known as the "Big Apple."
+Which continent is home to the Amazon Rainforest?|A) Africa  B) South America  C) Australia|B|The Amazon Rainforest is primarily located in Brazil, South America.
+What is the official language of Brazil?|A) Spanish  B) Portuguese  C) French|B|Portuguese is the official language of Brazil.
+Which country is famous for inventing pizza?|A) France  B) Greece  C) Italy|C|Italy is credited with inventing pizza, especially in Naples.

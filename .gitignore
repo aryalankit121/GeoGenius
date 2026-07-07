@@ -1,0 +1,9 @@
+# Eclipse build output
+bin/
+
+# Java compiled files
+*.class
+
+# OS files
+Thumbs.db
+.DS_Store
